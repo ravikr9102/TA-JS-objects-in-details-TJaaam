@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    padding: 3rem;
+}
+h1{
+    font-size: 4rem;
+}
+button{
+    margin-top: 8rem;
+    background-color: aqua;
+    border: 2px solid black;
+}
